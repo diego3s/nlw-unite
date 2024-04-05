@@ -67,7 +67,7 @@ fieldset legend, section h2 {
 }
 
 fieldset button {
-    width: fit-content 10%;
+    width: fit-content;
     border: 0;
     background: #F48F56;
     border-radius: 10px;
